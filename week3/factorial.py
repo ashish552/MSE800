@@ -1,7 +1,7 @@
-def factorial(x):
+def factorial(z):
   y = 1
   fact = 1 
-  while y <= x:
+  while y <= z:
    
     fact =  fact * y
     y = y +1
